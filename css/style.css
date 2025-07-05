@@ -15,7 +15,7 @@
    font-size: 19px;
 }
 .logo{
-    width: 240px!important;
+    width: 90%!important;
     height: 80px!important;
     margin: 20px;
 }
@@ -26,12 +26,11 @@
     background-image: url(../images/bg.jpg) !important;
     background-size: 100% 100% !important;
     background-repeat: no-repeat;
-
+width: 100%;
 }
 .image-wrapper {
   width: 50%;
   height: 50%;
- 
 }
 
 .circle-border-3 {
